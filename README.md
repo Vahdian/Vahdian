@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vahdian a developer from Madrid, Spain 
 - 👀 I’m interested in web development, AI, data science... 
-- 🌱 I’m currently learning at this very moment Tailwind and cementing my knowledge in some JS frameworks!
+- 🌱 I’m currently learning so many things at this moment, I am so passionate about learning.
 - 💞️ I’m looking to collaborate on any project that comes my way, I love coding!
 - 📫 How to reach me: Just send me a DM or a mail to germanpalero@gmail.com
 
